@@ -1,0 +1,328 @@
+
+/*------------------------------------*\
+    #DARK-VERSION
+\*------------------------------------*/
+.dark {
+	background-color: #2e2e2e;
+	color: #777777
+}
+
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5,
+.dark h6 {
+	color: #f6f6f7 !important;
+}
+
+.preloader {
+	background-color: #2e2e2e !important
+}
+
+/*.dark a:hover { color: #EEE; }*/
+
+.dark .bg-gray {
+	background-color: #232323 !important
+}
+
+.dark .shortcode-4 .counter {
+	color: #777777
+}
+
+.dark .shortcode-2.about-home .feature,
+.dark .shortcode-2.about-home .cta-form .form {
+	background-color: #232323
+}
+
+.dark .btn-primary.btn-black {
+	background-color: #f6f6f7;
+	border-color: #f6f6f7;
+	color: #2e3037;
+}
+
+.dark .service-2 .nav-tabs li a,
+.dark .projects-filter ul li a {
+	color: #f6f6f7
+}
+
+.dark .btn-secondary {
+	color: #f6f6f7;
+	border-color: #f6f6f7;
+}
+
+.dark .btn-secondary:hover,
+.dark .btn-secondary:focus,
+.dark .btn-secondary:active {
+	background-color: #f6f6f7;
+	color: #2e3037;
+	border-color: #f6f6f7;
+}
+
+.bg-gray.testimonial .testimonial-content,
+.bg-gray .accordion .panel {
+	background-color: #3a3c42
+}
+
+.dark .testimonial .owl-controls .owl-dot.active span,
+.dark .testimonial .owl-controls.clickable .owl-dot:hover span {
+	background-color: #f6f6f7;
+}
+
+.dark .testimonial .owl-controls .owl-dot.active {
+	outline-color: #f6f6f7;
+}
+
+.dark .shortcode-4 .facts-box:after,
+.dark .shortcode-9 .brand:after {
+	background-color: #2e3037;
+}
+
+.dark .widget-recent .recent-entry .recent-desc a,
+.dark .widget-best-product .best-product a {
+	color: #f6f6f7
+}
+
+.dark .widget-recent .recent-entry .recent-desc a:hover,
+.dark .widget-best-product .best-product a:hover {
+	color: #ffc527
+}
+
+.dark .widget-filter input {
+	background-color: transparent
+}
+
+.dark .product-tabs h5 {
+	color: #2f2f2f
+}
+
+.dark .pager div a,
+.pager-2 div a {
+	border-color: #f6f6f7;
+	color: #f6f6f7
+}
+
+.dark .pager div:hover a {
+	border-color: #ffc527
+}
+
+.dark .product-item h4 a {
+	color: #f6f6f7
+}
+
+.dark .product-item h4 a:hover {
+	color: #ffc527
+}
+
+.dark .product-item .product-cart .btn {
+	border-color: #2f2f2f
+}
+
+.dark .product-item .product-cart .btn:hover {
+	border-color: #f6f6f7
+}
+
+.dark .widget-filter .ui-slider {
+	background-color: rgba(225, 225, 225, 0.6)
+}
+
+.dark .widget-filter .ui-slider-handle {
+	background-color: #f6f6f7
+}
+
+.entry-cat span a,
+.entry-title a,
+.entry-content a.entry-more:hover,
+.entry-prev-next a,
+ .countdown-amount,
+ .shotcode-1 .feature .feature-icon,
+ .shortcode-7 .progress-title .title,
+ .testimonial .testimonial-meta h6 strong,
+ ul.icon-list li i,
+ .single-project .project-block li,
+ .service .service-desc a.read-more,
+ .shop-filter ul li a {
+	color: #f6f6f7
+}
+
+.entry-cat span a:hover,
+ .entry-related .entry:hover .entry-title h5:hover {
+	color: #ffc527 !important
+}
+
+.shortcode-2 .feature,
+.shortcode-6 .feature,
+.accordion .panel {
+	background-color: #3a3c42
+}
+
+.shortcode-7,
+.service-6 {
+	border-top-color: #444;
+	border-bottom-color: #444;
+}
+
+.testimonial-4 .testimonial-content {
+	background-color: transparent !important
+}
+
+.single-project .project-block,
+.about-1 .accordion .panel,
+.accordion .panel,
+.testimonial .testimonial-content,
+.hero-slide {
+	background-color: #2e3037
+}
+
+.service-6 .service-block {
+	border-left-color: #444
+}
+
+.service-6 .service-block:nth-child(3),
+.service-6 .service-block:nth-child(4) {
+	border-top-color: #444
+}
+
+.border-b {
+	border-bottom-color: #444
+}
+
+.header-8 .outer {
+	background-color: transparent
+}
+
+hr {
+	border-top-color: #444
+}
+
+.color-heading {
+	color: #f6f6f7 !important
+}
+
+.error-page .error-title:before {
+	content: "404";
+	color: rgba(255, 255, 255, 0.07);
+}
+
+.heading p:first-child {
+	color: #7f7e7e
+}
+
+.sidebar .widget .widget-title:before,
+.widget-categories li,
+.entry-widget .entry-widget-title:before,
+.entry-format,
+.single-project .project-block .project-title:before {
+	background-color: #7f7e7e
+}
+
+.sidebar .widget-search .form-search {
+	border-color: #7f7e7e
+}
+
+.widget-recent .recent-entry .recent-desc .recent-statics,
+.widget-best-product .best-product .product-bio,
+.entry-share,
+.pricing .list-group li.list-group-item,
+.cart-box .cart-overview li,
+ul.comments-list li,
+.form-control {
+	border-bottom-color: #7f7e7e
+}
+
+.widget-tags a,
+.cart-shiping,
+.cart-total-amount,
+.cart-table .table,
+.cart-shiping .form-control,
+.cart-table tbody tr td,
+.cart-table thead tr th,
+.entry-prev-content,
+.entry-next-content,
+.pricing .panel {
+	border-color: #7f7e7e
+}
+
+.panel-default>.panel-heading+.panel-collapse>.panel-body,
+ul.comments-list ul.comment-children {
+	border-top-color: #7f7e7e
+}
+
+.widget-categories li a {
+	color: #f6f6f7
+}
+
+.pricing .list-group,
+.pricing .panel-footer {
+	background-color: #1c1c1c
+}
+
+.testimonial-3 .testimonial-content:before {
+	color: #ffc527
+}
+
+.testimonial-3 .owl-controls .owl-dot.active span,
+.testimonial-3 .owl-controls.clickable .owl-dot:hover span,
+.shortcode-8 .feature-icon {
+	background-color: #ffc527 !important
+}
+
+.hero-slide .slide-heading p {
+	color: #7f7e7e
+}
+
+.full-header,
+.dark-header,
+.navbar.affix,
+.navbar-nav > li.has-dropdown > ul.dropdown-menu,
+.navbar-nav > li.has-dropdown > ul.mega-menu,
+li.dropdown-submenu > ul.mega-menu,
+ul.mega-menu > li > ul,
+li.has-dropdown > ul.dropdown-menu > li.dropdown-submenu > ul.dropdown-menu,
+li.dropdown-submenu > ul.mega-menu,
+.full-header .navbar.affix {
+	background-color: #313131
+}
+
+.navbar-nav > li > a,
+.module-search .search-icon i,
+.module-cart .cart-icon,
+ul.dropdown-menu li a,
+ul.mega-menu li ul li a {
+	color: #fff !important
+}
+
+.top-bar,
+ul.dropdown-menu li a,
+ul.mega-menu li ul li a,
+.header-5 .top-bar ul,
+.header-7 .top-bar .top-bar-inner{
+	border-bottom-color: rgba(255,255,255,0.1)
+}
+
+.dark-header .top-bar .top-contact p {
+	color: #7f7e7e
+}
+
+.module-search .search-box,
+.module-cart .cart-box,
+.header-7 .outer {
+	background-color: #313131 !important
+}
+
+.top-bar ul.top-contact li,
+.top-bar ul.top-widget .top-social a i,
+.header-5 .top-bar ul li:first-child p{
+    border-right-color: rgba(255, 255, 255, 0.1);
+}
+.top-bar ul.top-widget li {
+    border-left-color: rgba(255, 255, 255, 0.1);
+}
+
+.header-5 .module-search .search-icon i,
+.header-5 .module-cart .cart-icon i {border-color: rgba(255, 255, 255, 0.1);}
+.sidebar .widget-search .form-search .btn:hover {
+    background-color: #fff;
+    border-color: #fff;
+	color: #2f2f2f;
+}
